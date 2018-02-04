@@ -10,7 +10,7 @@ FireStarter is a basic Angular PWA powered by Firebase. It can serve as a founda
 - [Lessons and Screencasts](https://angularfirebase.com)
 - [Join the Slack Team](https://join.slack.com/t/angularfirebase/shared_invite/enQtMjU2OTU5OTMyODM3LWU4YTZiMGFhZjJhYmEwYzI1MWFmYTgyMWRmOTI5NWZjYWE3NTMwZjFmNWMwZGI1MmMzODQ3OTFlZjFkMjc5N2Y)
 
-## Featuresssss
+## Featuresssssss
 
 - Angular 5.0
 - 100 PWA Lighthouse Score
